@@ -21,8 +21,8 @@ let checkInterval = null;
 
 // HARDCODED EMAIL CREDENTIALS - REPLACE WITH YOUR OWN
 const EMAIL_CONFIG = {
-  email: 'ecoespe@gmail.com',    // Replace with your actual email
-  password: 'rciw lnwx nimq mxuz',  // Replace with your app password
+  email: 'email@fake.com',    // Replace with your actual email
+  password: Password',  // Replace with your app password
   imapHost: 'imap.gmail.com',    // IMAP server (Gmail default)
   imapPort: 993,
   imapSecure: true
